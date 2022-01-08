@@ -1,0 +1,126 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    color: #66bfbf;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    /* In terms of font size ----
+    1 em = 16px = 100% therefore, 90/16 = em */
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+a {
+    color: #11999e;
+}
+
+div {
+    /* background-color: blue; */
+}
+
+.top-cloud {
+    /* margin-left: 600px; */
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom:300px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #F6F2D4;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+    background-color: #EAF6F6;
+    padding: 100px;
+    margin-top: 100px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+}
+
+.skill-row h3 {
+    text-align: left;
+}
+
+.skill-row p {
+    text-align: left;
+    line-height: 2;
+}
+
+.terminal-img {
+    float: left;
+    width: 25%;
+    margin-right: 30px;
+}
+
+.threed-printer-img {
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+
+hr {
+    border-style: none;
+    /* height: 3px; */
+    width: 5%;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    margin: 100px auto 100px auto;
+}
+
+.footer-link {
+    margin: 10px;
+    font-size: large;
+    text-decoration: none;
+}
+
+.btn {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 100px;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #11999e, #0b6568);
+
+
+}
+
+.name-link {
+    text-decoration: none;
+    color: inherit;
+}
