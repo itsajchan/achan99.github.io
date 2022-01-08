@@ -116,7 +116,10 @@ hr {
     margin: 100px;
     border-radius: 5px;
     background: linear-gradient(to bottom, #11999e, #0b6568);
+}
 
+.btn:hover {
+    background: #06484b;
 
 }
 
